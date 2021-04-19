@@ -15,7 +15,6 @@ if ("geolocation" in navigator) {
     icon: "error",
     title: "Oops...",
     text: "Geolocation is not supported in this browser.",
-    footer: "The input field is empty, please write something.",
   });
 }
 
